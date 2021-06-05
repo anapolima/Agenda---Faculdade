@@ -8,7 +8,7 @@ Conta com capacidade máxima de 100 contatos e é inicializada com 20.
 Cada contato pode ter:
   - Nome (maior que 2 caracteres);
   - Telefone (DDD deve estar no formato 0XX);
-  - Email (deve terminar com ***.com***, ter exatamente um ***@***, e pelo menos 3 caracteres antes do ***@***);
+  - Email (deve terminar com ***.com***, ter exatamente um ***@***, e pelo menos 2 caracteres antes do ***@***);
   - Data de nascimento válida com ano superior a 1900 e inferior a 2021.
   
 A agenda conta com um menu que possibilita:

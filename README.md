@@ -2,6 +2,10 @@
 
 Esta agenda de contatos foi desenvolvida utilizando a linguagem C como trabalho final da disciplina de Laboratório de Informática.
 
+## Tecnologias utilizadas
+
+  <img align="center" title="C" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+
 ## Informações
 
 Conta com capacidade máxima de 100 contatos e é inicializada com 20.
